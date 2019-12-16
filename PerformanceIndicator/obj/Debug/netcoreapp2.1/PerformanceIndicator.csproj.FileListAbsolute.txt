@@ -1,0 +1,14 @@
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.csprojAssemblyReference.cache
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.csproj.CoreCompileInputs.cache
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.RazorAssemblyInfo.cache
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.RazorAssemblyInfo.cs
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.AssemblyInfoInputs.cache
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.AssemblyInfo.cs
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\bin\Debug\netcoreapp2.1\PerformanceIndicator.deps.json
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\bin\Debug\netcoreapp2.1\PerformanceIndicator.runtimeconfig.json
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\bin\Debug\netcoreapp2.1\PerformanceIndicator.runtimeconfig.dev.json
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\bin\Debug\netcoreapp2.1\PerformanceIndicator.dll
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\bin\Debug\netcoreapp2.1\PerformanceIndicator.pdb
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.RazorTargetAssemblyInfo.cache
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.dll
+E:\Projects\VisualProjects\PerformanceIndicator\PerformanceIndicator\obj\Debug\netcoreapp2.1\PerformanceIndicator.pdb
